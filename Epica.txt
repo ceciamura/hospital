@@ -1,0 +1,12 @@
+=============EPICA EQUIPO 2 ====================
+
+Se requiere un sistema para el Hospital regional, donde sea posible
+registrar a los pacientes teniendo en cuenta el nombre del paciente con longitud de
+campo hasta 50 caracteres, edad solo 2 dígitos, y el numero de asociado obra social.
+
+También se debe contener los nombres de los médicos por especialidad que 
+atenderán a los pacientes. Para los médicos debemos registrar su nombre completo, tambien de 
+50 caracteres y la especialidad que tiene cada uno de ellos ( 50 caracteres ).
+Y los turnos donde van a repartirse los médicos. Es indispensable identificar
+en una nota el horario de servicio para cada turno.
+
